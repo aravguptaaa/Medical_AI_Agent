@@ -1,4 +1,4 @@
-# AI Medical Appointment Scheduling Agent (RagaAI Case Study)
+# AI Medical Appointment Scheduling Agent
 
 ![Orchestration](https://img.shields.io/badge/Orchestration-LangGraph-orange)![Framework](https://img.shields.io/badge/Framework-LangChain-blue)![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)![UI](https://img.shields.io/badge/UI-Streamlit-red)This project is a fully functional AI-powered medical scheduling agent, built as a solution to the Data Science Intern case study from RagaAI. It automates the entire patient booking process, from initial greeting to post-booking reminders, effectively addressing key operational inefficiencies in medical practices.
 
