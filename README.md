@@ -150,6 +150,9 @@ Open your browser to the local URL provided by Streamlit (usually `http://localh
 
 To simulate the automated reminder system, run this script in a **separate terminal**. In a real-world scenario, this would be scheduled with a cron job.
 
+## Demo Video
+Watch the practical implementation here: [Loom Video](https://www.loom.com/share/ae1a047c71464ddc92164bd05813ca58)
+
 ```bash
 # This will check for any appointments needing reminders and "send" them.
 python reminder_manager.py
