@@ -11,6 +11,9 @@ The system is architected into two primary components:
 1.  **A Real-Time Conversational Agent:** Handles the interactive booking conversation with patients.
 2.  **An Asynchronous Reminder Manager:** Works in the background to send automated, multi-step reminders to reduce no-shows.
 
+Live Demo
+https://www.loom.com/share/ae1a047c71464ddc92164bd05813ca58
+
 ## ✨ Core Features Implemented
 
 | Feature                  | Status | Implementation Details                                                                                                                              |
